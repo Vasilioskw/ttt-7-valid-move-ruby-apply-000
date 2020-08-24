@@ -10,6 +10,7 @@ board[index] ==  " "
 
 ! (board[index] == "" || board[index] == nil || board[index] == "X" || board[index] == "O")
 end
+
 puts valid_move?(whateveryouwanttoput_board, 0)
 puts valid_move?(whateveryouwanttoput_board, 1)
 puts valid_move?(whateveryouwanttoput_board, 2)
